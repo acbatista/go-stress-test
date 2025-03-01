@@ -102,7 +102,7 @@ A ferramenta utiliza goroutines do Go para realizar requisições HTTP de forma 
 
 ## Requisitos
 
-- Go 1.21 ou superior (para compilação local)
+- Go 1.23 ou superior (para compilação local)
 - Docker (para execução em container)
 
 ## Tratamento de Erros
